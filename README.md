@@ -16,3 +16,8 @@
 * [iOS 10.0](https://github.com/kiss587898/iOSDeviceSupport/raw/master/10.0.zip)
 
 喜欢的点个star,方便下次再来^_^。
+
+
+
+## 版本记录：
+201802605 拷贝自:(__Tiramisu、(286116014))
